@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            WeatherData wd = new WeatherData();
+            SmallTv st = new SmallTv(wd);
+
+            wd.Update(30f, 123f, 21f);
+            //st.Display();
         }
     }
 }

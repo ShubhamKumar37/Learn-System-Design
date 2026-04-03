@@ -12,3 +12,4 @@ D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0
 D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.pdb
 D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.genruntimeconfig.cache
 D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\ref\WeatherORama.dll
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.sourcelink.json

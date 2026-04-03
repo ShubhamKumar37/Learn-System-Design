@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherORama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223559efbff8f2cc00669ebdc667191613d3e7a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherORama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherORama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

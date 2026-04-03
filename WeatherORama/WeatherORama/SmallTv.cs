@@ -14,7 +14,9 @@ namespace WeatherORama
         public SmallTv(ISubject wd)
         {
             this.weatherData = wd;
+            Console.WriteLine("This is the reference of smalltv object {0}", this.ToString());
             wd.RegisterObserver(this);
+
         }
 
         public void Update(float temp, float hum, float pres)

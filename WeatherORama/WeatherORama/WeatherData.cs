@@ -9,10 +9,11 @@ namespace WeatherORama
         public float temperature;
         public float humidity;
         public float pressure;
-        public List<IObserver> observers;
+        public List<IObserver> observers = new List<IObserver>();
 
         public void RegisterObserver(IObserver ob)
         {
+            Console.WriteLine(ob.ToString());
             observers.Add(ob);
         }
 
@@ -23,7 +24,7 @@ namespace WeatherORama
 
         public void NotifyObservers()
         {
-            Console.WriteLine("Observers getting notified about new data");
+            Console.WriteLine("Observers getting notified about new data {0}", observers.Count);
             for (int i = 0; i < observers.Count; i++)
             {
                 IObserver ob = observers.ElementAt(i);
