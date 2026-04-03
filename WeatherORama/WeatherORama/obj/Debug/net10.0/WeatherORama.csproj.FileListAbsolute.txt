@@ -1,0 +1,14 @@
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\bin\Debug\net10.0\WeatherORama.exe
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\bin\Debug\net10.0\WeatherORama.deps.json
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\bin\Debug\net10.0\WeatherORama.runtimeconfig.json
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\bin\Debug\net10.0\WeatherORama.dll
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\bin\Debug\net10.0\WeatherORama.pdb
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.AssemblyInfoInputs.cache
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.AssemblyInfo.cs
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.csproj.CoreCompileInputs.cache
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.dll
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\refint\WeatherORama.dll
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.pdb
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\WeatherORama.genruntimeconfig.cache
+D:\System Designs\Practice_With_Book\WeatherORama\WeatherORama\obj\Debug\net10.0\ref\WeatherORama.dll
