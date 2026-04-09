@@ -1,0 +1,15 @@
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\bin\Debug\net10.0\ObservePattern.exe
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\bin\Debug\net10.0\ObservePattern.deps.json
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\bin\Debug\net10.0\ObservePattern.runtimeconfig.json
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\bin\Debug\net10.0\ObservePattern.dll
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\bin\Debug\net10.0\ObservePattern.pdb
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.AssemblyInfoInputs.cache
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.AssemblyInfo.cs
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.csproj.CoreCompileInputs.cache
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.sourcelink.json
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.dll
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\refint\ObservePattern.dll
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.pdb
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ObservePattern.genruntimeconfig.cache
+D:\System Designs\Practice_With_Book\ObservePattern\ObservePattern\obj\Debug\net10.0\ref\ObservePattern.dll
