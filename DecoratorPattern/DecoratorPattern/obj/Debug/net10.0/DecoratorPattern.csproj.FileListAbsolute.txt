@@ -1,0 +1,15 @@
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.AssemblyInfo.cs
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.sourcelink.json
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.exe
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.deps.json
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.runtimeconfig.json
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.dll
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.pdb
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.dll
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\refint\DecoratorPattern.dll
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.pdb
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.genruntimeconfig.cache
+D:\System Designs\Practice_With_Book\DecoratorPattern\DecoratorPattern\obj\Debug\net10.0\ref\DecoratorPattern.dll
