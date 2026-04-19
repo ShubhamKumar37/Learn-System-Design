@@ -20,7 +20,7 @@ namespace DecoratorPattern
 
         public override double Cost()
         {
-            return beverage.Cost() + 0.30;
+            return beverage.Cost() + 0.20;
         }
     }
 }
