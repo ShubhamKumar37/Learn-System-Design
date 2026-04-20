@@ -1,0 +1,15 @@
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\bin\Debug\net10.0\FoodOrder.exe
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\bin\Debug\net10.0\FoodOrder.deps.json
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\bin\Debug\net10.0\FoodOrder.runtimeconfig.json
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\bin\Debug\net10.0\FoodOrder.dll
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\bin\Debug\net10.0\FoodOrder.pdb
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.AssemblyInfoInputs.cache
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.AssemblyInfo.cs
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.csproj.CoreCompileInputs.cache
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.sourcelink.json
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.dll
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\refint\FoodOrder.dll
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.pdb
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\FoodOrder.genruntimeconfig.cache
+D:\System Designs\Practice_With_Book\FoodOrder\FoodOrder\obj\Debug\net10.0\ref\FoodOrder.dll
